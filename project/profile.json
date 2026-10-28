@@ -1,0 +1,18 @@
+{
+  "device": "10de:2882",
+  "subsystem": "1458:410b",
+  "bdf": "0000:07:00.0",
+  "chip": "197000a1",
+  "bar0": "observed 0xfb000000 (not pinned; 16 MiB memory BAR required)",
+  "full_rom_sha256": null,
+  "pci_rom_image_bytes": 155136,
+  "pci_rom_image_sha256": "bf6ac7a6a65de3cf019445a8bd838992f6d5f46a8b40312db5b7d1f2208cd15d",
+  "full_prom_window_sha256": "6ac9d7b2428cd1bed8c41ef78558ea27d4ad0808dfe6fcb9637de179d5044a78",
+  "rom_view_bytes": 879616,
+  "accepted_fb_mib_register_values": ["0x1ffc"],
+  "observed_fb_mib_RUN02": 8188,
+  "rom_view_offset_in_full_file": 0,
+  "prom_bar_offset": "0x300000",
+  "prom_view_offset": 0,
+  "prom_view_sha256": "c7758cbd4351c18dd2187da503f6c719e1126fc47afced7c1790956caebab2c9"
+}

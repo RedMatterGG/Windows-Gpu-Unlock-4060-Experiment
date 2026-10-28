@@ -1,0 +1,12 @@
+local/
+tools/
+USB/
+**/USB/
+**/test-build/
+**/__pycache__/
+*.efi
+*.exe
+*.bin
+*.rom
+*.obj
+*.zip
